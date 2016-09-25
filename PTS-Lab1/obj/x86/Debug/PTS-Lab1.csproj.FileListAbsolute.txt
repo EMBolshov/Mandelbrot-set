@@ -1,0 +1,89 @@
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\КС\лабораторная 1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+D:\Политех\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+D:\Политех\7 семестр\ПТС\PTS-Lab1 - копия\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+H:\7 семестр\ПТС\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+D:\Политех\7 семестр\ПТС\Мандельброт\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Администратор\Desktop\фрактал без маштабирования\PTS-Lab1\PTS-Lab1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+C:\Users\DDRS\Downloads\PTS-Lab1\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+E:\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+C:\Users\Daria\Dropbox\КИУ СПБГПУ\конференция\Фракталы\Mandel MotherFucking Brot\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
+G:\Фракталы\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.exe
+G:\Фракталы\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.pdb
+G:\Фракталы\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.exe
+G:\Фракталы\PTS-Lab1\PTS-Lab1\bin\Debug\PTS-Lab1.pdb
+G:\Фракталы\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csprojResolveAssemblyReference.cache
+G:\Фракталы\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Form1.resources
+G:\Фракталы\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS_Lab1.Properties.Resources.resources
+G:\Фракталы\PTS-Lab1\PTS-Lab1\obj\x86\Debug\PTS-Lab1.csproj.GenerateResource.Cache
